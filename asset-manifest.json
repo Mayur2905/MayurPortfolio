@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MayursPortfolio/static/css/main.081a4789.chunk.css",
+    "main.js": "/MayursPortfolio/static/js/main.c0f8424c.chunk.js",
+    "main.js.map": "/MayursPortfolio/static/js/main.c0f8424c.chunk.js.map",
+    "runtime-main.js": "/MayursPortfolio/static/js/runtime-main.27c55e86.js",
+    "runtime-main.js.map": "/MayursPortfolio/static/js/runtime-main.27c55e86.js.map",
+    "static/js/2.443e1437.chunk.js": "/MayursPortfolio/static/js/2.443e1437.chunk.js",
+    "static/js/2.443e1437.chunk.js.map": "/MayursPortfolio/static/js/2.443e1437.chunk.js.map",
+    "static/js/3.799fde0e.chunk.js": "/MayursPortfolio/static/js/3.799fde0e.chunk.js",
+    "static/js/3.799fde0e.chunk.js.map": "/MayursPortfolio/static/js/3.799fde0e.chunk.js.map",
+    "index.html": "/MayursPortfolio/index.html",
+    "static/css/main.081a4789.chunk.css.map": "/MayursPortfolio/static/css/main.081a4789.chunk.css.map",
+    "static/js/2.443e1437.chunk.js.LICENSE.txt": "/MayursPortfolio/static/js/2.443e1437.chunk.js.LICENSE.txt",
+    "static/media/Box-Office.JPG": "/MayursPortfolio/static/media/Box-Office.2a3d9158.JPG",
+    "static/media/Capture.JPG": "/MayursPortfolio/static/media/Capture.87b0bce0.JPG",
+    "static/media/Coding.png": "/MayursPortfolio/static/media/Coding.c9b8854a.png",
+    "static/media/Profile.css": "/MayursPortfolio/static/media/Me.aa413241.jpg",
+    "static/media/Mobile_Shoppee.png": "/MayursPortfolio/static/media/Mobile_Shoppee.55ff1e43.png",
+    "static/media/index.css": "/MayursPortfolio/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Home.css": "/MayursPortfolio/static/media/bg.d580cd37.jpg",
+    "static/media/facebook - Copy.png": "/MayursPortfolio/static/media/facebook - Copy.92e3be75.png",
+    "static/media/github - Copy.png": "/MayursPortfolio/static/media/github - Copy.33f2e0ba.png",
+    "static/media/instagram - Copy.png": "/MayursPortfolio/static/media/instagram - Copy.30791cba.png",
+    "static/media/linkedin - Copy.png": "/MayursPortfolio/static/media/linkedin - Copy.39b978e0.png",
+    "static/media/twitter - Copy.png": "/MayursPortfolio/static/media/twitter - Copy.be77a3f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c55e86.js",
+    "static/js/2.443e1437.chunk.js",
+    "static/css/main.081a4789.chunk.css",
+    "static/js/main.c0f8424c.chunk.js"
+  ]
+}
